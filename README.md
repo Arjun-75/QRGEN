@@ -16,7 +16,7 @@ View the QR code image dynamically after submission.
 Cross-Platform Compatibility:
 Users can access the application from any modern web browser. The backend and frontend seamlessly communicate to ensure a smooth user experience.
 
-3.Efficient Backend:
+3. Efficient Backend:
 
 The backend uses the qr-image package to generate QR codes in PNG format.
 It leverages the express framework for handling requests and serving static files.
